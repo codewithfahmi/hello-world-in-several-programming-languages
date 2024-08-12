@@ -1,7 +1,5 @@
 # Hello, World! in several programming languages
-Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk pengujian sebuah program (bahasa pemrograman maupun lainnya) dengan cara menampilkan output berupa teks "Hello, World!".
-
-Repositori ini berisi beberapa implementasi "Hello, World!" dalam beberapa bahasa pemrograman.
+Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk pengujian sebuah program (bahasa pemrograman maupun lainnya) dengan cara menampilkan output berupa teks "Hello, World!". Repositori ini berisi implementasi "Hello, World!" dalam beberapa bahasa pemrograman.
 
 ## Daftar Bahasa Pemrograman
 Akan diperbaharui apabila ada implementasi baru yang ditambahkan.
