@@ -7,7 +7,7 @@ Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk penguj
 
 <table>
   <tr>
-    <th>#</th>
+    <th></th>
     <th>Repositori</th>
   </tr>
   <tr>
