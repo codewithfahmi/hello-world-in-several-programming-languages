@@ -4,29 +4,13 @@ Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk penguj
 
 ## Daftar Bahasa Pemrograman
 
-
-<table>
-  <tr>
-    <th></th>
-    <th>Repositori</th>
-  </tr>
-  <tr>
-    <td>B</td>
-    <td>
-      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/bash">
-        Bash
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>C</td>
-    <td>
-      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c">C</a>&nbsp;
-      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%2B%2B">C++</a>&nbsp;
-      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/clojure">Clojure</a>&nbsp;
-      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/crystal">Crystal</a>
-    </td>
-</table>
+|     | Repositori                                                                                                 |
+| --- | ---------------------------------------------------------------------------------------------------------- |
+| B   | [Bash](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/bash)       |
+| C   | [C](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c)             |
+|     | [C++](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%2B%2B)     |
+|     | [Clojure](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/clojure) |
+|     | [Crystal](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/crystal) |
 
 ## ⚠️ Discalimer
 
