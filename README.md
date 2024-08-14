@@ -21,18 +21,10 @@ Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk penguj
   <tr>
     <td>C</td>
     <td>
-      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c">
-        C
-      </a>,&nbsp;
-      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%2B%2B">
-        C++
-      </a>,&nbsp;
-      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/clojure">
-        Clojure
-      </a>,&nbsp;
-      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/crystal">
-        Crystal
-      </a>
+      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c">C</a>,&nbsp;
+      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%2B%2B">C++</a>,&nbsp;
+      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/clojure">Clojure</a>,&nbsp;
+      <a href="https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/crystal">Crystal</a>
     </td>
 </table>
 
