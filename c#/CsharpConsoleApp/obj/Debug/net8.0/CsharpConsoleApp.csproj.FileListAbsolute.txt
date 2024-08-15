@@ -1,0 +1,15 @@
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/bin/Debug/net8.0/CsharpConsoleApp
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/bin/Debug/net8.0/CsharpConsoleApp.deps.json
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/bin/Debug/net8.0/CsharpConsoleApp.runtimeconfig.json
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/bin/Debug/net8.0/CsharpConsoleApp.dll
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/bin/Debug/net8.0/CsharpConsoleApp.pdb
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/CsharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/CsharpConsoleApp.AssemblyInfoInputs.cache
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/CsharpConsoleApp.AssemblyInfo.cs
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/CsharpConsoleApp.csproj.CoreCompileInputs.cache
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/CsharpConsoleApp.sourcelink.json
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/CsharpConsoleApp.dll
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/refint/CsharpConsoleApp.dll
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/CsharpConsoleApp.pdb
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/CsharpConsoleApp.genruntimeconfig.cache
+/home/fahmi/Workspace/hello-world-in-several-programming-languages/c#/CsharpConsoleApp/obj/Debug/net8.0/ref/CsharpConsoleApp.dll
