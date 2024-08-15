@@ -14,6 +14,7 @@ Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk penguj
 |     | [Clojure](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/clojure) | Robust, Practical, Fast, Functional JVM Programming Language                        |
 |     | [Crystal](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/crystal) | A language for humans and computers                                                 |
 | D   | [Dlang](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/d)         | Static-typed, General Purpose, C-Like Syntax Programming Language                   |
+| E   | [Erlang](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/erlang)   | Practical functional programming for a parallel world                               |
 
 ## ⚠️ Discalimer
 
