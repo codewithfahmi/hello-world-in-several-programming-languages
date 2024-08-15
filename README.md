@@ -4,14 +4,14 @@ Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk penguj
 
 ## Daftar Bahasa Pemrograman
 
-|     | Repositori                                                                                                 | Deskripsi                                                    |
-| --- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| B   | [Bash](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/bash)       | The Bourne Again SHell                                       |
-| C   | [C](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c)             | God of Programming Languages                                 |
-|     | [C++](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%2B%2B)     | General Purpose, Object Oriented programming language        |
-|     | [C#](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%23)         |
-|     | [Clojure](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/clojure) | Robust, Practical, Fast, Functional JVM Programming Language |
-|     | [Crystal](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/crystal) | A language for humans and computers                          |
+|     | Repositori                                                                                                 | Deskripsi                                                                           |
+| --- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| B   | [Bash](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/bash)       | The Bourne Again SHell                                                              |
+| C   | [C](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c)             | God of Programming Languages                                                        |
+|     | [C++](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%2B%2B)     | General Purpose, Object Oriented programming language                               |
+|     | [C#](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%23)         | The modern, innovative, open-source programming language for building all your apps |
+|     | [Clojure](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/clojure) | Robust, Practical, Fast, Functional JVM Programming Language                        |
+|     | [Crystal](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/crystal) | A language for humans and computers                                                 |
 
 ## ⚠️ Discalimer
 
