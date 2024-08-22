@@ -4,19 +4,19 @@ Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk penguj
 
 ## Daftar Bahasa Pemrograman
 
-|     | Repositori                                                                                                 | Source Code                                                                         |
-| --- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| A   | [Amber](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/amber)     | <code>echo "Hello, World!"</code>                                                   |
-| B   | [Bash](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/bash)       | The Bourne Again SHell                                                              |
-| C   | [C](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c)             | God of Programming Languages                                                        |
-|     | [C++](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%2B%2B)     | General Purpose, Object Oriented programming language                               |
-|     | [C#](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%23)         | The modern, innovative, open-source programming language for building all your apps |
-|     | [Clojure](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/clojure) | Robust, Practical, Fast, Functional JVM Programming Language                        |
-|     | [Crystal](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/crystal) | A language for humans and computers                                                 |
-| D   | [Dlang](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/d)         | Static-typed, General Purpose, C-Like Syntax Programming Language                   |
-| E   | [Erlang](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/erlang)   | Practical functional programming for a parallel world                               |
-|     | [Elixir](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/elixir)   | Dynamic, functional language for building scalable and maintainable applications    |
-| F   | [F#](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/fsharp)       | Empowers everyone to write succinct, robust and performant code                     |
+|     | Repositori                                                                                                 | Ekstensi | Source Code                                                                                                      |
+| --- | ---------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------- |
+| A   | [Amber](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/amber)     | .ab      | <pre>echo "Hello, World!"</pre>                                                                                  |
+| B   | [Bash](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/bash)       | .sh      | <pre>echo "Hello, World!"</pre>                                                                                  |
+| C   | [C](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c)             | .c       | <pre>#include <stdio.h><br>int main() {<br> printf("Hello, World!");<br> return 0;<br>}</pre>                    |
+|     | [C++](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%2B%2B)     | .cpp     | <pre>#include <iostream><br>int main() {<br> std::cout << "Hello, World!" << std::endl;<br> return 0;<br>}</pre> |
+|     | [C#](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/c%23)         | .cs      | <pre>Console.WriteLine("Hello, World!");</pre>                                                                   |
+|     | [Clojure](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/clojure) | .clj     | <pre>(println "Hello, World!")</pre>                                                                             |
+|     | [Crystal](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/crystal) | .cr      | <pre>print "Hello, World!"</pre>                                                                                 |
+| D   | [Dlang](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/d)         | .d       | <pre>import std.stdio;<br>void main() {<br> writeln("Hello, World!");<br>}                                       |
+| E   | [Erlang](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/erlang)   | .erl     | <pre>-module(hello).<br>-export([world/0]).<br><br>world() -> io:fwrite("Hello, World!").</pre>                  |
+|     | [Elixir](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/elixir)   | .ex      | <pre>IO.puts("Hello, World!")</pre>                                                                              |
+| F   | [F#](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/fsharp)       | .fsx     | <pre>printfn "Hello, World!"</pre>                                                                               |
 |     |
 
 ## ⚠️ Discalimer
