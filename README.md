@@ -18,7 +18,7 @@ Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk penguj
 | E   | [Erlang](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/erlang)             | <pre lang="erlang">-module(hello).&#13;-export([world/0]).&#13;&#13;world() -> io:fwrite("Hello, World!").</pre>                     |
 |     | [Elixir](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/elixir)             | <pre lang="elixir">IO.puts("Hello, World!")</pre>                                                                                    |
 | F   | [F#](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/fsharp)                 | <pre lang="fsharp">printfn "Hello, World!"</pre>                                                                                     |
-|     |
+|     | [Fortran](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/fortran)           | <pre lang="fortran">program hello&#13; print *, "Hello, World!"&#13;end program hello</pre>
 
 ## ⚠️ Discalimer
 
