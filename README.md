@@ -20,6 +20,7 @@ Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk penguj
 | F   | [F#](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/fsharp)                 | <pre lang="fsharp">printfn "Hello, World!"</pre>                                                                                     |
 |     | [Fortran](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/fortran)           | <pre lang="fortran">program hello&#13; print \*, "Hello, World!"&#13;end program hello</pre>                                         |
 | G   | [Groovy](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/groovy)             | <pre lang="groovy">println("Hello, World!")</pre>                                                                                    |
+|     | [Go](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/golang)                 | <pre lang="go">package main&#13;&#13;import "fmt"&#13;&#13;func main() {&#13; fmt.Println("Hello, World!")&#13;}</pre>               |
 
 ## ⚠️ Discalimer
 
