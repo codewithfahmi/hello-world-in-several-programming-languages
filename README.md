@@ -23,6 +23,7 @@ Hello, World! merupakan sebuah teks sederhana yang sering digunakan untuk penguj
 |     | [Go](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/golang)                 | <pre lang="go">package main&#13;&#13;import "fmt"&#13;&#13;func main() {&#13; fmt.Println("Hello, World!")&#13;}</pre>               |
 |     | [Gleam](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/gleam/hello_gleam)   | <pre lang="gleam">import gleam/io&#13;&#13;pub fn main() {&#13; io.println("Hello from hello_gleam!")&#13;}</pre>                    |
 | H   | [Haskell](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/haskell)           | <pre lang="haskell">main :: IO()&#13;main = putStrLn $ "Hello, World!"</pre>                                                         |
+| J   | [Java](https://github.com/codewithfahmi/hello-world-in-several-programming-languages/tree/main/java)                 | <pre lang="java">class Hello {&#13; public static void main(String[] args) {&#13;  System.out.println("Hello, World!");&#13; }&#13;}</pre>                                                                                                                                     |
 
 ## ⚠️ Discalimer
 
