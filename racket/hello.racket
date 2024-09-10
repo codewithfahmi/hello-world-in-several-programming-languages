@@ -1,0 +1,3 @@
+#lang racket
+
+(write "Hello, World!")
